@@ -1,0 +1,89 @@
+body {
+    font-family: sans-serif;
+}
+.cat {
+    position: absolute;
+    left: 200px;
+    top: 240px;
+}
+.cat:hover {
+    left: 10px;
+}
+.cap {
+    position: absolute;
+    left: 400px;
+    top: 240px;
+}
+.cap:hover {
+    left: 10px;
+}
+.car {
+    position: absolute;
+    left: 300px;
+    top: 240px;
+}
+.car:hover {
+    left: 10px;
+}
+
+
+
+.q {
+    position: absolute;
+    left: 500px;
+    top: 240px;
+}
+.q:hover {
+    top: 100px;
+}
+.qw {
+    position: absolute;
+    left: 600px;
+    top: 240px;
+}
+.qw:hover {
+    top: 100px;
+}
+.qwe {
+    position: absolute;
+    left: 700px;
+    top: 240px;
+}
+.qwe:hover {
+    top: 100px;
+}
+
+
+.a {
+    position: absolute;
+    left: 800px;
+    top: 240px;
+}
+.a:hover {
+    transform: translateX(300px);
+}
+
+.as {
+    position: absolute;
+    left: 900px;
+    top: 240px;
+}
+.as:hover {
+    transform: translateX(200px);
+}
+.asd {
+    position: absolute;
+    left: 1000px;
+    top: 240px;
+}
+.asd:hover {
+    transform: translateX(100px);
+}
+
+h1 {
+    text-align: center;
+    font-size: 60px;
+    color: rgb(167, 128, 144);
+    font-family:Trebuchet MS;
+}
+
