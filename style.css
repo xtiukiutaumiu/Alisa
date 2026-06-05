@@ -1,0 +1,16 @@
+ol {
+    background-color: rgb(252, 241, 196);
+    border: 2px solid rgb(243, 222, 199);
+}
+h1 {
+    color: rgb(87, 135, 189);
+    font-family: cursive;
+    font-size: 30px;
+}
+li {
+    color: rgb(78, 119, 143);
+}
+a{
+    text-decoration: none;
+    color: rgb(78, 119, 143);
+}
